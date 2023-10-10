@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 var accountSID = process.env.TWILIO_ACCOUNT_SID;
 var authToken = process.env.TWILIO_AUTH_TOKEN;
 
