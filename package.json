@@ -5,5 +5,15 @@
     "express": "^4.18.2",
     "ngrok": "^5.0.0-beta.2",
     "twilio": "^4.18.1"
-  }
+  },
+  "name": "callbot",
+  "description": "Web Application to facilitate automated call functionality using Twilio API.",
+  "version": "1.0.0",
+  "main": "start-app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
